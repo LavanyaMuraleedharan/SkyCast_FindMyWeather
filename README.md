@@ -239,5 +239,6 @@ button {
 ## Output
 <img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/8676072b-8ffb-4bb8-a1fe-7d7fe7a98f8e" />
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/99528af0-f800-458c-aa6c-2b29090cf920" />
-## Result:
+
+## Result
 A responsive single-page application using React that allows users to enter a city name and retrieve real-time weather information using the OpenWeatherMap API has been built successfully. 
